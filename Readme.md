@@ -1,4 +1,4 @@
-AliPei - AliPay's Chrome extension.
+AliPei[阿里呸] - AliPay's Chrome extension.
 ----------------------------------
 
 ## [alipei.crx](http://d.pr/f/HfAL)
